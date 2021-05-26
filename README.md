@@ -11,7 +11,7 @@ Vous trouverez 3 dossiers :
 
 Pour tester vos composants en temps réel :
 
- 1. Dans le dossier src, dist et demo, initialisez avec ***npm***
+ 1. Dans le dossier **src**, **dist** et **demo**, installez les dépendances avec ***npm***
 
  2. Rendez vous dans le dossier src :
 	`cd src`
