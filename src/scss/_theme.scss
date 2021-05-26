@@ -1,0 +1,22 @@
+@import './colors';
+
+.primary {
+  background-color: $primary;
+  color: $secondary;
+}
+
+.secondary {
+  background-color: $secondary;
+  color: white;
+}
+
+.warning {
+  background-color: $warning;
+  color: white;
+}
+
+.disable {
+  background-color: $disable;
+  color: $secondary;
+  pointer-events: none;
+}

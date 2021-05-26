@@ -1,0 +1,25 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "prepare": "install-peers"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "next": "^10.2.3",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-feather": "^2.0.9"
+  },
+  "peerDependencies": {
+    "library-exemple": "file:../dist"
+  },
+  "devDependencies": {
+    "install-peers-cli": "^2.2.0"
+  }
+}
