@@ -10,7 +10,7 @@ function MyApp(props) {
   return (
     <div style={{height: '100%'}}>
       <Head>
-        <title>test</title>
+        <title>Test d'une librairie de composants</title>
         <meta name='viewport' content='minimum-scale=1, initial-scale=1, width=device-width' charset='utf-8' />
       </Head>
       <Component {...pageProps} />
